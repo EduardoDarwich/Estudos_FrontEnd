@@ -20,3 +20,6 @@ Tags HTML
 <input type="">(gera um campo de input dentro do formulário e precisa ter um type definido)
 <select> <option></option> </select>(lista de opções selecionaveis)
 <textarea></textarea>(cria um campo de texto para o usuario)
+<div></div>(abre divisões e serve pra estruturar melhor o site, é um elemento do tipo block e ocupa a tela inteira )
+<span></span>(é um elemento inline e agrupa os elementos linha a linha) 
+<link>(cria um link com outro arquivo)

@@ -1,0 +1,36 @@
+Estudo CSS
+
+.(é usado para definir uma classe, é recomendado quando for usado mais de uma vez no arquivo html)
+#(é usado para definir um id, é recomendado quando for usado apenas uma vez no arquivo html)
+background{}(altera o background da div ou da área selecionada podendo mudar a cor ou por imagens)
+padding(adiciona um espaçamento interno entre elementos dentro de uma caixa)
+margin(altera a margem de elementos externos)
+border(gera uma borda que pode ser manipulada)
+font(manipula a fonte do elemento selecionado)
+font-family(utiliza um link de uma font externa)
+text-decoration(adciona estilização ao seu texto de varias formas)
+background-attachment(altera as propriedades da imagem de fundo)
+background-repeat(controla a repetição das imagens de fundo)
+background-position(altera a posição da imagem em relação ao container do background)
+float(tira o conteúdo selecionado do fluxo normal de documentos)
+clear(limpa o fluxo float fazendo com que elementos que não estejam no fluxo não sejam sobrepostos por ele)
+display(altera a natureza padrão de um elemento)
+position: static(padrão html)
+position: relative(permite alterar a posição do elemento com base na sua posição original)
+position: absolute(permite alterar com base no contêiner pai se sua posição não for estatica)
+position: fixed(permite posicionar um elemento fixo na tela)
+z-index(define a ordem de apresentação de elementos que estão se sobrepondo)
+
+
+--------------------------------------------------------
+variações de formatação:
+px-> tamanho fixo em pixels
+%-> tamanho relativo em porcentagem
+em-> em relação ao container pai
+
+
+--------------------------------------------------------
+elementos:
+block(ocupa todo espaço da tela e ficam um abaixo do outro) exemplos:<h1>,<p>, <table>
+inline(um elemento na frente do outro e a largura é definida baseada no conteúdo) exemplos:<a>, <span>, <img>
+inline-block(a largura é baseada no conteúdo e ficam um abaixo do outro) exemplos: display:inlineblock
